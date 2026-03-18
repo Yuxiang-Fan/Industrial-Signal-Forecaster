@@ -1,37 +1,24 @@
 # Industrial Signal Forecaster (CNN-LSTM)
 
-This repository contains my solution for the **2025 "Supcon Cup" (中控杯) Industrial AI Innovation Challenge** - Industrial Time-Series Forecasting Track. 
+This project provides a specialized deep learning implementation for predicting trends in high-dimensional industrial sensor data. Developed for the **2025 "Supcon Cup" (中控杯) Industrial AI Innovation Challenge**, the repository demonstrates a practical approach to handling temporal dependencies and large-scale data constraints in industrial environments.
 
-The project focuses on predicting trends in high-dimensional industrial sensor data by combining statistical feature engineering with deep learning.
+## 🛠️ Key Implementation Details
 
-## 🛠️ Implementation Highlights
+The solution integrates statistical feature engineering with a hybrid neural network architecture to address specific industrial forecasting challenges:
 
-Instead of using a vanilla model, I implemented several practical strategies to handle the complexities of real-world industrial datasets:
+* **Lag-Correlation Analysis**: Computes Spearman rank correlation across multiple lag orders to identify delayed responses in sensor covariates. Redundant or highly collinear features are removed to streamline model input and reduce noise.
+* **Memory-Optimized Data Pipeline**: To prevent Out-Of-Memory (OOM) errors during the training of massive datasets, the pipeline utilizes offline pre-computed statistics (`stats.xls`). Scaling is performed on-the-fly within the PyTorch `DataLoader`, ensuring memory efficiency and zero data leakage.
+* **Hybrid CNN-LSTM Architecture**: Features 1D-CNN layers for local spatial-temporal feature extraction, followed by LSTM layers to capture long-term sequential dependencies.
+* **Sequential Validation**: Implements a strict sliding-window mechanism for data preparation to ensure no future information is leaked during the training or validation phases.
 
-* **Lag-Correlation & Feature Selection**: To account for the delayed response in industrial processes, I analyzed the Spearman rank correlation across multiple lag orders. Redundant or highly collinear features were removed to reduce noise and improve model convergence.
-* **Memory-Efficient Scaling (OOM Prevention)**: Facing a massive dataset that could lead to Out-Of-Memory (OOM) errors, I calculated global Min-Max statistics (`stats.xls`) offline. These are applied on-the-fly within the PyTorch `DataLoader`, ensuring zero data leakage while keeping a small memory footprint.
-* **CNN-LSTM Hybrid Architecture**: I designed a simple yet effective network using 1D-CNN layers to extract local temporal patterns, followed by LSTM layers to capture long-term sequential dependencies.
-* **Strict Temporal Validation**: All data splitting and windowing follow a strict chronological order. This ensures that no "future data" is leaked into the training phase, maintaining the integrity of the forecasting results.
-
-## 📁 Project Structure
+## 📁 Repository Structure
 
 ```text
 Industrial-Signal-Forecaster/
-├── data/                    # Dataset directory
-│   ├── sample_data.xls      # 100-row sample to demonstrate the data schema
-│   └── README.md            # Instructions on the original competition data
-├── features/                # Feature engineering artifacts
-│   ├── selected_cols_123.xls # Selected lag features for Signal 123
-│   ├── selected_cols_124.xls # Selected lag features for Signal 124
-│   └── stats.xls            # Pre-computed statistics for online scaling
-├── logs/                    # Execution logs
-│   └── lag_correlation.log  # Detailed logs of the feature selection process
-├── src/                     # Core source code
-│   ├── feature_engineering.py # Parallel lag-correlation & collinearity processing
-│   ├── models.py            # CNN-LSTM network architecture definition
-│   ├── train.py             # Training loop, validation, and checkpointing
-│   └── predict.py           # Inference script for generating test submissions
-├── notebooks/               # Experimental records
-│   └── EDA_and_Training.ipynb # Exploratory Data Analysis & visual training logs
-├── requirements.txt         # Project dependencies
-└── README.md                # Project documentation
+├── data/                    # Dataset storage and data schema samples
+├── features/                # Artifacts from feature engineering (selected columns, stats)
+├── logs/                    # Training and correlation analysis logs
+├── src/                     # Core source code (models, training, and prediction)
+├── notebooks/               # Exploratory Data Analysis (EDA) and experimental logs
+├── requirements.txt         # Environment dependencies
+└── README.md                # Documentation
