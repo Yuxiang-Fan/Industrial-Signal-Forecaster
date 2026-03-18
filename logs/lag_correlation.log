@@ -1,0 +1,899 @@
+2025-07-10 16:01:51,213 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-10 16:02:12,360 - INFO - Data loaded successfully
+2025-07-10 16:02:12,589 - INFO - No missing values found in data
+2025-07-10 16:02:13,574 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-10 16:02:13,574 - INFO - Memory before start: 1542.11 MB
+2025-07-10 16:02:13,575 - INFO - Applying downsampling with ratio 0.5
+2025-07-10 16:02:14,839 - INFO - Dropping constant covariates: ['信号14']
+2025-07-10 18:37:59,366 - INFO - Progress: 24/122 covariates completed (19.7%), Elapsed time: 9344.24 seconds, Memory: 427.85 MB
+2025-07-10 18:37:59,427 - INFO - Progress: 48/122 covariates completed (39.3%), Elapsed time: 9344.30 seconds, Memory: 429.80 MB
+2025-07-10 18:37:59,461 - INFO - Progress: 72/122 covariates completed (59.0%), Elapsed time: 9344.34 seconds, Memory: 429.88 MB
+2025-07-10 18:37:59,498 - INFO - Progress: 96/122 covariates completed (78.7%), Elapsed time: 9344.37 seconds, Memory: 429.90 MB
+2025-07-10 18:37:59,544 - INFO - Progress: 120/122 covariates completed (98.4%), Elapsed time: 9344.42 seconds, Memory: 429.92 MB
+2025-07-10 18:37:59,562 - INFO - Lag 1 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,562 - INFO - No covariates selected for 信号123 at lag 1
+2025-07-10 18:37:59,563 - INFO - Lag 2 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,564 - INFO - No covariates selected for 信号123 at lag 2
+2025-07-10 18:37:59,564 - INFO - Lag 3 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,565 - INFO - No covariates selected for 信号123 at lag 3
+2025-07-10 18:37:59,565 - INFO - Lag 4 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,566 - INFO - No covariates selected for 信号123 at lag 4
+2025-07-10 18:37:59,566 - INFO - Lag 5 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,567 - INFO - No covariates selected for 信号123 at lag 5
+2025-07-10 18:37:59,567 - INFO - Lag 6 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,567 - INFO - No covariates selected for 信号123 at lag 6
+2025-07-10 18:37:59,568 - INFO - Lag 7 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,568 - INFO - No covariates selected for 信号123 at lag 7
+2025-07-10 18:37:59,569 - INFO - Lag 8 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,569 - INFO - No covariates selected for 信号123 at lag 8
+2025-07-10 18:37:59,570 - INFO - Lag 9 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,570 - INFO - No covariates selected for 信号123 at lag 9
+2025-07-10 18:37:59,570 - INFO - Lag 10 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,570 - INFO - No covariates selected for 信号123 at lag 10
+2025-07-10 18:37:59,570 - INFO - Lag 11 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,571 - INFO - No covariates selected for 信号123 at lag 11
+2025-07-10 18:37:59,571 - INFO - Lag 12 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,571 - INFO - No covariates selected for 信号123 at lag 12
+2025-07-10 18:37:59,571 - INFO - Lag 13 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,571 - INFO - No covariates selected for 信号123 at lag 13
+2025-07-10 18:37:59,572 - INFO - Lag 14 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,572 - INFO - No covariates selected for 信号123 at lag 14
+2025-07-10 18:37:59,572 - INFO - Lag 15 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,572 - INFO - No covariates selected for 信号123 at lag 15
+2025-07-10 18:37:59,572 - INFO - Lag 16 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,572 - INFO - No covariates selected for 信号123 at lag 16
+2025-07-10 18:37:59,573 - INFO - Lag 17 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,573 - INFO - No covariates selected for 信号123 at lag 17
+2025-07-10 18:37:59,573 - INFO - Lag 18 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,573 - INFO - No covariates selected for 信号123 at lag 18
+2025-07-10 18:37:59,574 - INFO - Lag 19 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,574 - INFO - No covariates selected for 信号123 at lag 19
+2025-07-10 18:37:59,574 - INFO - Lag 20 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,574 - INFO - No covariates selected for 信号123 at lag 20
+2025-07-10 18:37:59,575 - INFO - Lag 21 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,575 - INFO - No covariates selected for 信号123 at lag 21
+2025-07-10 18:37:59,575 - INFO - Lag 22 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,575 - INFO - No covariates selected for 信号123 at lag 22
+2025-07-10 18:37:59,575 - INFO - Lag 23 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,575 - INFO - No covariates selected for 信号123 at lag 23
+2025-07-10 18:37:59,576 - INFO - Lag 24 selected covariates (threshold=0.5): []
+2025-07-10 18:37:59,576 - INFO - No covariates selected for 信号123 at lag 24
+2025-07-10 18:37:59,576 - INFO - Final selected covariates for 信号123 (threshold=0.5, cov_corr_threshold=0.7): []
+2025-07-10 18:38:03,306 - INFO - Program completed successfully
+2025-07-10 20:11:51,406 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-10 20:12:15,717 - INFO - Data loaded successfully
+2025-07-10 20:12:16,017 - INFO - No missing values found in data
+2025-07-10 20:12:17,337 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-10 20:12:17,338 - INFO - Memory before start: 1425.60 MB
+2025-07-10 20:12:17,338 - INFO - Applying downsampling with ratio 0.8
+2025-07-10 20:12:22,852 - INFO - Dropping constant covariates: ['信号14']
+2025-07-10 22:37:26,239 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-10 22:37:47,744 - INFO - Data loaded successfully
+2025-07-10 22:37:47,940 - INFO - No missing values found in data
+2025-07-10 22:37:48,814 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-10 22:37:48,814 - INFO - Memory before start: 1553.48 MB
+2025-07-10 22:37:48,814 - INFO - Using full data (sample_ratio=1.0)
+2025-07-10 22:37:49,584 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 09:12:28,144 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-11 09:12:49,678 - INFO - Data loaded successfully
+2025-07-11 09:12:49,885 - INFO - No missing values found in data
+2025-07-11 09:12:50,841 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-11 09:12:50,849 - INFO - Memory before start: 1551.18 MB
+2025-07-11 09:12:50,849 - INFO - Using full data (sample_ratio=1.0)
+2025-07-11 09:12:51,679 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 09:16:18,525 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-11 09:16:38,689 - INFO - Data loaded successfully
+2025-07-11 09:16:38,884 - INFO - No missing values found in data
+2025-07-11 09:16:39,611 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-11 09:16:39,612 - INFO - Memory before start: 1553.97 MB
+2025-07-11 09:16:39,612 - INFO - Using full data (sample_ratio=1.0)
+2025-07-11 09:16:40,262 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 15:44:11,264 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-11 15:44:32,402 - INFO - Data loaded successfully
+2025-07-11 15:44:32,592 - INFO - No missing values found in data
+2025-07-11 15:44:33,543 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-11 15:44:33,543 - INFO - Memory before start: 1544.39 MB
+2025-07-11 15:44:33,543 - INFO - Applying downsampling with ratio 0.5
+2025-07-11 15:44:34,552 - INFO - Sampled rows: 681939
+2025-07-11 15:44:36,038 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 15:46:19,818 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-11 15:46:44,863 - INFO - Data loaded successfully
+2025-07-11 15:46:45,057 - INFO - No missing values found in data
+2025-07-11 15:46:45,803 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-11 15:46:45,804 - INFO - Memory before start: 1544.40 MB
+2025-07-11 15:46:45,805 - INFO - Applying downsampling with ratio 0.5
+2025-07-11 15:46:46,542 - INFO - Sampled rows: 681939
+2025-07-11 15:46:48,040 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 18:32:26,146 - INFO - Progress: 585/2928 tasks completed (20.0%), Elapsed time: 9937.83 seconds, Memory: 5826.67 MB
+2025-07-11 18:32:26,183 - INFO - Progress: 1170/2928 tasks completed (40.0%), Elapsed time: 9937.88 seconds, Memory: 5827.41 MB
+2025-07-11 18:32:26,215 - INFO - Progress: 1755/2928 tasks completed (59.9%), Elapsed time: 9937.91 seconds, Memory: 5827.55 MB
+2025-07-11 18:32:26,245 - INFO - Progress: 2340/2928 tasks completed (79.9%), Elapsed time: 9937.94 seconds, Memory: 5827.59 MB
+2025-07-11 18:32:26,275 - INFO - Progress: 2925/2928 tasks completed (99.9%), Elapsed time: 9937.97 seconds, Memory: 5827.59 MB
+2025-07-11 18:32:26,364 - INFO - Lag 1 selected covariates (threshold=0.3) for 信号124: ['信号2', '信号3', '信号5', '信号6', '信号8', '信号10', '信号11', '信号13', '信号15', '信号16', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号26', '信号27', '信号28', '信号44', '信号47', '信号50', '信号52', '信号53', '信号56', '信号57', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号65', '信号68', '信号71', '信号72', '信号74', '信号77', '信号81', '信号86', '信号87', '信号96', '信号104', '信号106', '信号109', '信号113', '信号114', '信号117', '信号118', '信号119', '信号120']
+2025-07-11 19:04:50,850 - INFO - Lag 1 final selected covariates for 信号124: ['信号2', '信号3', '信号5', '信号6', '信号8', '信号10', '信号11', '信号13', '信号15', '信号16', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号26', '信号27', '信号28', '信号44', '信号47', '信号50', '信号52', '信号53', '信号56', '信号57', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号65', '信号68', '信号71', '信号72', '信号74', '信号77', '信号81', '信号86', '信号87', '信号96', '信号104', '信号106', '信号109', '信号113', '信号114', '信号117', '信号118', '信号119', '信号120']
+2025-07-11 19:04:50,851 - INFO - Lag 2 selected covariates (threshold=0.3) for 信号124: ['信号2', '信号3', '信号5', '信号6', '信号8', '信号10', '信号11', '信号13', '信号15', '信号16', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号26', '信号27', '信号28', '信号44', '信号47', '信号50', '信号52', '信号53', '信号56', '信号57', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号65', '信号68', '信号71', '信号72', '信号74', '信号77', '信号81', '信号86', '信号87', '信号96', '信号104', '信号106', '信号109', '信号113', '信号114', '信号117', '信号118', '信号119', '信号120']
+2025-07-11 19:37:09,540 - INFO - Lag 2 final selected covariates for 信号124: ['信号2', '信号3', '信号5', '信号6', '信号8', '信号10', '信号11', '信号13', '信号15', '信号16', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号26', '信号27', '信号28', '信号44', '信号47', '信号50', '信号52', '信号53', '信号56', '信号57', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号65', '信号68', '信号71', '信号72', '信号74', '信号77', '信号81', '信号86', '信号87', '信号96', '信号104', '信号106', '信号109', '信号113', '信号114', '信号117', '信号118', '信号119', '信号120']
+2025-07-11 19:37:09,541 - INFO - Lag 3 selected covariates (threshold=0.3) for 信号124: ['信号2', '信号3', '信号5', '信号6', '信号8', '信号10', '信号11', '信号13', '信号15', '信号16', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号26', '信号27', '信号28', '信号44', '信号47', '信号50', '信号52', '信号53', '信号56', '信号57', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号65', '信号68', '信号71', '信号72', '信号74', '信号77', '信号81', '信号86', '信号87', '信号96', '信号104', '信号106', '信号109', '信号113', '信号114', '信号117', '信号118', '信号119', '信号120']
+2025-07-11 20:09:32,657 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-11 20:09:54,014 - INFO - Data loaded successfully
+2025-07-11 20:09:54,205 - INFO - No missing values found in data
+2025-07-11 20:09:55,059 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-11 20:09:55,059 - INFO - Memory before start: 1544.74 MB
+2025-07-11 20:09:55,059 - INFO - Applying downsampling with ratio 0.5
+2025-07-11 20:09:56,052 - INFO - Sampled rows: 681939
+2025-07-11 20:09:57,604 - INFO - Dropping constant covariates: ['信号14']
+2025-07-11 23:19:57,483 - INFO - Progress: 585/2928 tasks completed (20.0%), Elapsed time: 11399.58 seconds, Memory: 2687.93 MB
+2025-07-11 23:19:57,522 - INFO - Progress: 1170/2928 tasks completed (40.0%), Elapsed time: 11399.63 seconds, Memory: 2688.70 MB
+2025-07-11 23:19:57,555 - INFO - Progress: 1755/2928 tasks completed (59.9%), Elapsed time: 11399.66 seconds, Memory: 2688.82 MB
+2025-07-11 23:19:57,586 - INFO - Progress: 2340/2928 tasks completed (79.9%), Elapsed time: 11399.69 seconds, Memory: 2688.87 MB
+2025-07-11 23:19:57,616 - INFO - Progress: 2925/2928 tasks completed (99.9%), Elapsed time: 11399.72 seconds, Memory: 2688.88 MB
+2025-07-11 23:19:57,643 - INFO - Max |corr| for 信号124: 0.602
+2025-07-11 23:19:57,696 - INFO - Saved intermediate_lag_corr_信号124.csv
+2025-07-11 23:19:57,706 - INFO - Lag 1 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-11 23:19:58,126 - INFO - Computing 325 pairwise correlations for lag 1
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号59 due to high correlation (-0.790) with 信号17 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-11 23:30:33,695 - INFO - Lag 1: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:30:33,701 - INFO - Lag 1: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-11 23:30:33,701 - INFO - Lag 1: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-11 23:30:33,701 - INFO - Lag 1: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-11 23:30:33,701 - INFO - Lag 1: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1: Removing 信号60 due to high correlation (-0.809) with 信号86 for 信号124
+2025-07-11 23:30:33,702 - INFO - Lag 1 final selected covariates for 信号124: ['信号56', '信号86']
+2025-07-11 23:30:33,702 - INFO - Lag 2 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-11 23:30:33,826 - INFO - Computing 325 pairwise correlations for lag 2
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-11 23:40:23,075 - INFO - Lag 2: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-11 23:40:23,081 - INFO - Lag 2: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:40:23,081 - INFO - Lag 2: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-11 23:40:23,082 - INFO - Lag 2: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-11 23:40:23,092 - INFO - Lag 2: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-11 23:40:23,092 - INFO - Lag 2: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-11 23:40:23,092 - INFO - Lag 2: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-11 23:40:23,092 - INFO - Lag 2 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-11 23:40:23,095 - INFO - Lag 3 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-11 23:40:23,218 - INFO - Computing 325 pairwise correlations for lag 3
+2025-07-11 23:50:04,678 - INFO - Lag 3: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-11 23:50:04,678 - INFO - Lag 3: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-11 23:50:04,678 - INFO - Lag 3: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-11 23:50:04,678 - INFO - Lag 3: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-11 23:50:04,681 - INFO - Lag 3: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-11 23:50:04,681 - INFO - Lag 3: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:50:04,682 - INFO - Lag 3: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-11 23:50:04,685 - INFO - Lag 3: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-11 23:50:04,687 - INFO - Lag 3: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-11 23:50:04,687 - INFO - Lag 3: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-11 23:50:04,687 - INFO - Lag 3: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-11 23:50:04,687 - INFO - Lag 3: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-11 23:50:04,687 - INFO - Lag 3 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-11 23:50:04,687 - INFO - Lag 4 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-11 23:50:04,802 - INFO - Computing 325 pairwise correlations for lag 4
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:00:06,614 - INFO - Lag 4: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:00:06,619 - INFO - Lag 4: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 00:00:06,619 - INFO - Lag 4: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:00:06,619 - INFO - Lag 4: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:00:06,622 - INFO - Lag 4: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:00:06,622 - INFO - Lag 4: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:00:06,623 - INFO - Lag 4: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:00:06,623 - INFO - Lag 4: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:00:06,623 - INFO - Lag 4: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 00:00:06,623 - INFO - Lag 4: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:00:06,624 - INFO - Lag 4 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:00:06,624 - INFO - Lag 5 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:00:06,754 - INFO - Computing 325 pairwise correlations for lag 5
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:09:43,232 - INFO - Lag 5: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:09:43,238 - INFO - Lag 5: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 00:09:43,241 - INFO - Lag 5: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:09:43,241 - INFO - Lag 5: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:09:43,241 - INFO - Lag 5: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 00:09:43,242 - INFO - Lag 5: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 00:09:43,243 - INFO - Lag 5: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 00:09:43,243 - INFO - Lag 5: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:09:43,243 - INFO - Lag 5: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:09:43,243 - INFO - Lag 5 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:09:43,243 - INFO - Lag 6 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:09:43,365 - INFO - Computing 325 pairwise correlations for lag 6
+2025-07-12 00:19:41,251 - INFO - Lag 6: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:19:41,252 - INFO - Lag 6: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:19:41,252 - INFO - Lag 6: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:19:41,252 - INFO - Lag 6: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:19:41,253 - INFO - Lag 6: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:19:41,253 - INFO - Lag 6: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:19:41,253 - INFO - Lag 6: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:19:41,262 - INFO - Lag 6 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:19:41,262 - INFO - Lag 7 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:19:41,382 - INFO - Computing 325 pairwise correlations for lag 7
+2025-07-12 00:29:30,231 - INFO - Lag 7: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:29:30,232 - INFO - Lag 7: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:29:30,235 - INFO - Lag 7 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:29:30,235 - INFO - Lag 8 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:29:30,352 - INFO - Computing 325 pairwise correlations for lag 8
+2025-07-12 00:39:50,960 - INFO - Lag 8: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:39:50,960 - INFO - Lag 8: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:39:50,960 - INFO - Lag 8: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:39:50,960 - INFO - Lag 8: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-12 00:39:50,961 - INFO - Lag 8: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:39:50,962 - INFO - Lag 8: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:39:50,962 - INFO - Lag 8: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:39:50,962 - INFO - Lag 8: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:39:50,963 - INFO - Lag 8: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:39:50,964 - INFO - Lag 8: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:39:50,964 - INFO - Lag 8: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:39:50,965 - INFO - Lag 8: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:39:50,965 - INFO - Lag 8: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:39:50,965 - INFO - Lag 8: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:39:50,965 - INFO - Lag 8: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:39:50,965 - INFO - Lag 8: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 00:39:50,966 - INFO - Lag 8: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 00:39:50,967 - INFO - Lag 8: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:39:50,968 - INFO - Lag 8: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:39:50,968 - INFO - Lag 8 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:39:50,968 - INFO - Lag 9 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:39:51,083 - INFO - Computing 325 pairwise correlations for lag 9
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 00:50:15,625 - INFO - Lag 9: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 00:50:15,636 - INFO - Lag 9: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 00:50:15,638 - INFO - Lag 9 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 00:50:15,638 - INFO - Lag 10 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 00:50:15,741 - INFO - Computing 325 pairwise correlations for lag 10
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:00:41,803 - INFO - Lag 10: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:00:41,817 - INFO - Lag 10 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:00:41,817 - INFO - Lag 11 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:00:41,957 - INFO - Computing 325 pairwise correlations for lag 11
+2025-07-12 01:11:44,484 - INFO - Lag 11: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:11:44,484 - INFO - Lag 11: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:11:44,488 - INFO - Lag 11: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:11:44,488 - INFO - Lag 11: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 01:11:44,489 - INFO - Lag 11: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:11:44,491 - INFO - Lag 11: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:11:44,492 - INFO - Lag 11: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 01:11:44,494 - INFO - Lag 11: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:11:44,494 - INFO - Lag 11: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 01:11:44,494 - INFO - Lag 11: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:11:44,494 - INFO - Lag 11 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:11:44,494 - INFO - Lag 12 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:11:44,617 - INFO - Computing 325 pairwise correlations for lag 12
+2025-07-12 01:21:20,519 - INFO - Lag 12: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:21:20,526 - INFO - Lag 12: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:21:20,526 - INFO - Lag 12: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:21:20,526 - INFO - Lag 12: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-12 01:21:20,526 - INFO - Lag 12: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:21:20,526 - INFO - Lag 12: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:21:20,528 - INFO - Lag 12: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:21:20,528 - INFO - Lag 12: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:21:20,528 - INFO - Lag 12: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:21:20,529 - INFO - Lag 12: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:21:20,529 - INFO - Lag 12: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号63 due to high correlation (0.880) with 信号25 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:21:20,530 - INFO - Lag 12: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 01:21:20,532 - INFO - Lag 12: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 01:21:20,532 - INFO - Lag 12: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 01:21:20,532 - INFO - Lag 12: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:21:20,532 - INFO - Lag 12: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:21:20,532 - INFO - Lag 12 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:21:20,533 - INFO - Lag 13 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:21:20,649 - INFO - Computing 325 pairwise correlations for lag 13
+2025-07-12 01:31:35,402 - INFO - Lag 13: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:31:35,411 - INFO - Lag 13: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:31:35,412 - INFO - Lag 13: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:31:35,412 - INFO - Lag 13: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:31:35,412 - INFO - Lag 13: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:31:35,413 - INFO - Lag 13 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:31:35,419 - INFO - Lag 14 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:31:35,540 - INFO - Computing 325 pairwise correlations for lag 14
+2025-07-12 01:42:39,888 - INFO - Lag 14: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:42:39,888 - INFO - Lag 14: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:42:39,891 - INFO - Lag 14: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:42:39,892 - INFO - Lag 14: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:42:39,892 - INFO - Lag 14: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:42:39,894 - INFO - Lag 14: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:42:39,897 - INFO - Lag 14: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 01:42:39,897 - INFO - Lag 14: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:42:39,897 - INFO - Lag 14: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:42:39,898 - INFO - Lag 14 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:42:39,898 - INFO - Lag 15 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:42:40,012 - INFO - Computing 325 pairwise correlations for lag 15
+2025-07-12 01:53:17,888 - INFO - Lag 15: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 01:53:17,891 - INFO - Lag 15: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 01:53:17,891 - INFO - Lag 15: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 01:53:17,892 - INFO - Lag 15 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 01:53:17,892 - INFO - Lag 16 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 01:53:18,012 - INFO - Computing 325 pairwise correlations for lag 16
+2025-07-12 02:04:40,442 - INFO - Lag 16: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:04:40,444 - INFO - Lag 16: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:04:40,444 - INFO - Lag 16: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:04:40,444 - INFO - Lag 16: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:04:40,444 - INFO - Lag 16: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:04:40,446 - INFO - Lag 16: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:04:40,446 - INFO - Lag 16: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:04:40,446 - INFO - Lag 16: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:04:40,446 - INFO - Lag 16: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:04:40,447 - INFO - Lag 16: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 02:04:40,449 - INFO - Lag 16: Removing 信号63 due to high correlation (0.880) with 信号25 for 信号124
+2025-07-12 02:04:40,449 - INFO - Lag 16: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:04:40,449 - INFO - Lag 16: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:04:40,449 - INFO - Lag 16: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 02:04:40,449 - INFO - Lag 16: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 02:04:40,451 - INFO - Lag 16: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 02:04:40,451 - INFO - Lag 16: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:04:40,451 - INFO - Lag 16: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:04:40,451 - INFO - Lag 16 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:04:40,452 - INFO - Lag 17 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:04:40,569 - INFO - Computing 325 pairwise correlations for lag 17
+2025-07-12 02:15:51,540 - INFO - Lag 17: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:15:51,541 - INFO - Lag 17: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:15:51,541 - INFO - Lag 17: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:15:51,541 - INFO - Lag 17: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-12 02:15:51,542 - INFO - Lag 17: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:15:51,543 - INFO - Lag 17 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:15:51,543 - INFO - Lag 18 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:15:51,662 - INFO - Computing 325 pairwise correlations for lag 18
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:26:42,162 - INFO - Lag 18: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:26:42,166 - INFO - Lag 18: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 02:26:42,166 - INFO - Lag 18: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:26:42,166 - INFO - Lag 18: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:26:42,166 - INFO - Lag 18: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:26:42,167 - INFO - Lag 18 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:26:42,167 - INFO - Lag 19 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:26:42,286 - INFO - Computing 325 pairwise correlations for lag 19
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:37:34,275 - INFO - Lag 19: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:37:34,279 - INFO - Lag 19: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:37:34,281 - INFO - Lag 19: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:37:34,281 - INFO - Lag 19: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 02:37:34,281 - INFO - Lag 19: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:37:34,282 - INFO - Lag 19 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:37:34,282 - INFO - Lag 20 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:37:34,405 - INFO - Computing 325 pairwise correlations for lag 20
+2025-07-12 02:48:08,784 - INFO - Lag 20: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:48:08,784 - INFO - Lag 20: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:48:08,784 - INFO - Lag 20: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:48:08,784 - INFO - Lag 20: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:48:08,784 - INFO - Lag 20: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:48:08,787 - INFO - Lag 20: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 02:48:08,791 - INFO - Lag 20: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:48:08,791 - INFO - Lag 20: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:48:08,791 - INFO - Lag 20: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 02:48:08,791 - INFO - Lag 20: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 02:48:08,792 - INFO - Lag 20: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 02:48:08,792 - INFO - Lag 20: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:48:08,792 - INFO - Lag 20: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:48:08,792 - INFO - Lag 20 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:48:08,792 - INFO - Lag 21 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:48:08,931 - INFO - Computing 325 pairwise correlations for lag 21
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 02:59:30,984 - INFO - Lag 21: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 02:59:30,988 - INFO - Lag 21: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 02:59:30,991 - INFO - Lag 21: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 02:59:30,991 - INFO - Lag 21: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 02:59:30,991 - INFO - Lag 21: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 02:59:30,991 - INFO - Lag 21: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 02:59:30,991 - INFO - Lag 21 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 02:59:30,991 - INFO - Lag 22 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 02:59:31,105 - INFO - Computing 325 pairwise correlations for lag 22
+2025-07-12 03:09:17,080 - INFO - Lag 22: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 03:09:17,080 - INFO - Lag 22: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 03:09:17,081 - INFO - Lag 22: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 03:09:17,082 - INFO - Lag 22: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 03:09:17,082 - INFO - Lag 22: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 03:09:17,082 - INFO - Lag 22: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 03:09:17,082 - INFO - Lag 22: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 03:09:17,082 - INFO - Lag 22: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 03:09:17,083 - INFO - Lag 22: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 03:09:17,083 - INFO - Lag 22: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 03:09:17,084 - INFO - Lag 22: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 03:09:17,084 - INFO - Lag 22: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:09:17,084 - INFO - Lag 22: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 03:09:17,085 - INFO - Lag 22: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 03:09:17,085 - INFO - Lag 22: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 03:09:17,085 - INFO - Lag 22: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 03:09:17,086 - INFO - Lag 22: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 03:09:17,087 - INFO - Lag 22: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 03:09:17,087 - INFO - Lag 22: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 03:09:17,087 - INFO - Lag 22 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 03:09:17,087 - INFO - Lag 23 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 03:09:17,203 - INFO - Computing 325 pairwise correlations for lag 23
+2025-07-12 03:19:17,680 - INFO - Lag 23: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 03:19:17,680 - INFO - Lag 23: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 03:19:17,680 - INFO - Lag 23: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 03:19:17,681 - INFO - Lag 23: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 03:19:17,681 - INFO - Lag 23: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 03:19:17,681 - INFO - Lag 23: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 03:19:17,682 - INFO - Lag 23: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 03:19:17,682 - INFO - Lag 23: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 03:19:17,682 - INFO - Lag 23: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 03:19:17,683 - INFO - Lag 23: Removing 信号23 due to high correlation (0.999) with 信号22 for 信号124
+2025-07-12 03:19:17,683 - INFO - Lag 23: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 03:19:17,683 - INFO - Lag 23: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:19:17,684 - INFO - Lag 23: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 03:19:17,684 - INFO - Lag 23: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 03:19:17,684 - INFO - Lag 23: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 03:19:17,684 - INFO - Lag 23: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:19:17,684 - INFO - Lag 23: Removing 信号53 due to high correlation (0.881) with 信号25 for 信号124
+2025-07-12 03:19:17,685 - INFO - Lag 23: Removing 信号25 due to high correlation (0.868) with 信号60 for 信号124
+2025-07-12 03:19:17,685 - INFO - Lag 23: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 03:19:17,685 - INFO - Lag 23: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 03:19:17,685 - INFO - Lag 23: Removing 信号59 due to high correlation (0.781) with 信号60 for 信号124
+2025-07-12 03:19:17,686 - INFO - Lag 23: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 03:19:17,686 - INFO - Lag 23: Removing 信号62 due to high correlation (0.800) with 信号60 for 信号124
+2025-07-12 03:19:17,686 - INFO - Lag 23: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 03:19:17,686 - INFO - Lag 23 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 03:19:17,687 - INFO - Lag 24 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6', '信号15', '信号17', '信号19', '信号20', '信号22', '信号23', '信号24', '信号25', '信号50', '信号53', '信号56', '信号59', '信号60', '信号61', '信号62', '信号63', '信号64', '信号77', '信号81', '信号86', '信号96', '信号106', '信号109', '信号119'] (26 covariates)
+2025-07-12 03:19:17,804 - INFO - Computing 325 pairwise correlations for lag 24
+2025-07-12 03:29:40,240 - INFO - Lag 24: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-12 03:29:40,241 - INFO - Lag 24: Removing 信号15 due to high correlation (0.797) with 信号2 for 信号124
+2025-07-12 03:29:40,241 - INFO - Lag 24: Removing 信号2 due to high correlation (-0.797) with 信号22 for 信号124
+2025-07-12 03:29:40,241 - INFO - Lag 24: Removing 信号23 due to high correlation (-0.795) with 信号2 for 信号124
+2025-07-12 03:29:40,243 - INFO - Lag 24: Removing 信号77 due to high correlation (-0.835) with 信号2 for 信号124
+2025-07-12 03:29:40,243 - INFO - Lag 24: Removing 信号81 due to high correlation (-0.844) with 信号2 for 信号124
+2025-07-12 03:29:40,243 - INFO - Lag 24: Removing 信号109 due to high correlation (-0.734) with 信号2 for 信号124
+2025-07-12 03:29:40,243 - INFO - Lag 24: Removing 信号19 due to high correlation (1.000) with 信号17 for 信号124
+2025-07-12 03:29:40,244 - INFO - Lag 24: Removing 信号17 due to high correlation (-0.746) with 信号25 for 信号124
+2025-07-12 03:29:40,244 - INFO - Lag 24: Removing 信号20 due to high correlation (0.798) with 信号22 for 信号124
+2025-07-12 03:29:40,244 - INFO - Lag 24: Removing 信号22 due to high correlation (0.814) with 信号24 for 信号124
+2025-07-12 03:29:40,245 - INFO - Lag 24: Removing 信号24 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:29:40,245 - INFO - Lag 24: Removing 信号63 due to high correlation (0.858) with 信号24 for 信号124
+2025-07-12 03:29:40,245 - INFO - Lag 24: Removing 信号96 due to high correlation (0.727) with 信号24 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号119 due to high correlation (-0.721) with 信号24 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号50 due to high correlation (0.915) with 信号25 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号25 due to high correlation (0.881) with 信号53 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号64 due to high correlation (0.878) with 信号25 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号106 due to high correlation (0.723) with 信号25 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号59 due to high correlation (0.737) with 信号53 for 信号124
+2025-07-12 03:29:40,246 - INFO - Lag 24: Removing 信号53 due to high correlation (0.989) with 信号60 for 信号124
+2025-07-12 03:29:40,247 - INFO - Lag 24: Removing 信号62 due to high correlation (0.756) with 信号53 for 信号124
+2025-07-12 03:29:40,247 - INFO - Lag 24: Removing 信号61 due to high correlation (0.995) with 信号60 for 信号124
+2025-07-12 03:29:40,247 - INFO - Lag 24: Removing 信号86 due to high correlation (-0.809) with 信号60 for 信号124
+2025-07-12 03:29:40,247 - INFO - Lag 24 final selected covariates for 信号124: ['信号56', '信号60']
+2025-07-12 03:29:40,247 - INFO - Final selected covariates for 信号124 (threshold=0.5, cov_corr_threshold=0.7): {'信号60': [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24], '信号86': [1], '信号56': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]}
+2025-07-12 03:29:42,416 - INFO - Saved covariate_correlations_信号124.xlsx
+2025-07-12 03:29:46,171 - INFO - Saved heatmap_信号124.png
+2025-07-12 03:29:47,404 - INFO - Program completed successfully
+2025-07-12 03:29:48,018 - INFO - Cleaning up joblib resources
+2025-07-13 00:15:09,323 - INFO - Starting program, Logical cores: 32, Physical cores: 24
+2025-07-13 00:15:20,373 - INFO - Data loaded successfully
+2025-07-13 00:15:20,440 - INFO - No missing values found in data
+2025-07-13 00:15:20,575 - INFO - Output directory: D:\pycharm community\machine learning test\output
+2025-07-13 00:15:20,577 - INFO - Memory before start: 370.45 MB
+2025-07-13 00:15:20,577 - INFO - Using full data (sample_ratio=1.0)
+2025-07-13 00:15:20,577 - INFO - Sampled rows: 1363877
+2025-07-13 00:54:58,720 - INFO - Progress: 52/264 tasks completed (19.7%), Elapsed time: 2377.83 seconds, Memory: 2001.15 MB
+2025-07-13 00:54:58,728 - INFO - Progress: 104/264 tasks completed (39.4%), Elapsed time: 2377.84 seconds, Memory: 2001.71 MB
+2025-07-13 00:54:58,732 - INFO - Progress: 156/264 tasks completed (59.1%), Elapsed time: 2377.84 seconds, Memory: 2001.71 MB
+2025-07-13 00:54:58,736 - INFO - Progress: 208/264 tasks completed (78.8%), Elapsed time: 2377.84 seconds, Memory: 2001.71 MB
+2025-07-13 00:54:58,740 - INFO - Progress: 260/264 tasks completed (98.5%), Elapsed time: 2377.85 seconds, Memory: 2001.71 MB
+2025-07-13 00:54:58,753 - INFO - Max |corr| for 信号124: 0.567
+2025-07-13 00:54:58,774 - ERROR - Failed to save intermediate_lag_corr_信号124.csv: [Errno 13] Permission denied: 'D:\\pycharm community\\machine learning test\\output\\intermediate_lag_corr_信号124.csv'
+2025-07-13 00:54:58,779 - INFO - Lag 1 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:54:58,833 - INFO - Computing 1 pairwise correlations for lag 1
+2025-07-13 00:55:23,444 - INFO - Lag 1: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:55:23,444 - INFO - Lag 1 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:55:23,444 - INFO - Lag 2 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:55:23,470 - INFO - Computing 1 pairwise correlations for lag 2
+2025-07-13 00:55:48,301 - INFO - Lag 2: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:55:48,301 - INFO - Lag 2 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:55:48,301 - INFO - Lag 3 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:55:48,328 - INFO - Computing 1 pairwise correlations for lag 3
+2025-07-13 00:56:12,284 - INFO - Lag 3: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:56:12,285 - INFO - Lag 3 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:56:12,285 - INFO - Lag 4 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:56:12,306 - INFO - Computing 1 pairwise correlations for lag 4
+2025-07-13 00:56:33,418 - INFO - Lag 4: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:56:33,419 - INFO - Lag 4 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:56:33,419 - INFO - Lag 5 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:56:33,440 - INFO - Computing 1 pairwise correlations for lag 5
+2025-07-13 00:56:54,939 - INFO - Lag 5: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:56:54,939 - INFO - Lag 5 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:56:54,939 - INFO - Lag 6 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:56:54,961 - INFO - Computing 1 pairwise correlations for lag 6
+2025-07-13 00:57:16,025 - INFO - Lag 6: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:57:16,025 - INFO - Lag 6 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:57:16,026 - INFO - Lag 7 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:57:16,046 - INFO - Computing 1 pairwise correlations for lag 7
+2025-07-13 00:57:37,222 - INFO - Lag 7: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:57:37,222 - INFO - Lag 7 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:57:37,223 - INFO - Lag 8 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:57:37,242 - INFO - Computing 1 pairwise correlations for lag 8
+2025-07-13 00:57:58,370 - INFO - Lag 8: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:57:58,371 - INFO - Lag 8 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:57:58,371 - INFO - Lag 9 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:57:58,392 - INFO - Computing 1 pairwise correlations for lag 9
+2025-07-13 00:58:19,501 - INFO - Lag 9: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:58:19,501 - INFO - Lag 9 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:58:19,502 - INFO - Lag 10 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:58:19,523 - INFO - Computing 1 pairwise correlations for lag 10
+2025-07-13 00:58:40,951 - INFO - Lag 10: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:58:40,951 - INFO - Lag 10 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:58:40,952 - INFO - Lag 11 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:58:40,974 - INFO - Computing 1 pairwise correlations for lag 11
+2025-07-13 00:59:02,832 - INFO - Lag 11: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:59:02,832 - INFO - Lag 11 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:59:02,832 - INFO - Lag 12 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:59:02,852 - INFO - Computing 1 pairwise correlations for lag 12
+2025-07-13 00:59:24,495 - INFO - Lag 12: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:59:24,496 - INFO - Lag 12 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:59:24,496 - INFO - Lag 13 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:59:24,517 - INFO - Computing 1 pairwise correlations for lag 13
+2025-07-13 00:59:46,160 - INFO - Lag 13: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 00:59:46,161 - INFO - Lag 13 final selected covariates for 信号124: ['信号2']
+2025-07-13 00:59:46,161 - INFO - Lag 14 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 00:59:46,182 - INFO - Computing 1 pairwise correlations for lag 14
+2025-07-13 01:00:07,706 - INFO - Lag 14: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:00:07,707 - INFO - Lag 14 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:00:07,707 - INFO - Lag 15 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:00:07,727 - INFO - Computing 1 pairwise correlations for lag 15
+2025-07-13 01:00:29,076 - INFO - Lag 15: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:00:29,076 - INFO - Lag 15 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:00:29,077 - INFO - Lag 16 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:00:29,097 - INFO - Computing 1 pairwise correlations for lag 16
+2025-07-13 01:00:50,888 - INFO - Lag 16: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:00:50,888 - INFO - Lag 16 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:00:50,889 - INFO - Lag 17 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:00:50,914 - INFO - Computing 1 pairwise correlations for lag 17
+2025-07-13 01:01:12,814 - INFO - Lag 17: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:01:12,814 - INFO - Lag 17 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:01:12,815 - INFO - Lag 18 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:01:12,836 - INFO - Computing 1 pairwise correlations for lag 18
+2025-07-13 01:01:34,127 - INFO - Lag 18: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:01:34,127 - INFO - Lag 18 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:01:34,128 - INFO - Lag 19 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:01:34,159 - INFO - Computing 1 pairwise correlations for lag 19
+2025-07-13 01:01:55,600 - INFO - Lag 19: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:01:55,600 - INFO - Lag 19 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:01:55,601 - INFO - Lag 20 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:01:55,622 - INFO - Computing 1 pairwise correlations for lag 20
+2025-07-13 01:02:16,725 - INFO - Lag 20: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:02:16,726 - INFO - Lag 20 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:02:16,726 - INFO - Lag 21 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:02:16,748 - INFO - Computing 1 pairwise correlations for lag 21
+2025-07-13 01:02:38,036 - INFO - Lag 21: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:02:38,036 - INFO - Lag 21 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:02:38,037 - INFO - Lag 22 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:02:38,058 - INFO - Computing 1 pairwise correlations for lag 22
+2025-07-13 01:02:59,303 - INFO - Lag 22: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:02:59,303 - INFO - Lag 22 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:02:59,304 - INFO - Lag 23 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:02:59,326 - INFO - Computing 1 pairwise correlations for lag 23
+2025-07-13 01:03:20,502 - INFO - Lag 23: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:03:20,504 - INFO - Lag 23 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:03:20,504 - INFO - Lag 24 selected covariates (threshold=0.5) for 信号124: ['信号2', '信号6'] (2 covariates)
+2025-07-13 01:03:20,524 - INFO - Computing 1 pairwise correlations for lag 24
+2025-07-13 01:03:41,717 - INFO - Lag 24: Removing 信号6 due to high correlation (-0.701) with 信号2 for 信号124
+2025-07-13 01:03:41,719 - INFO - Lag 24 final selected covariates for 信号124: ['信号2']
+2025-07-13 01:03:41,719 - INFO - Final selected covariates for 信号124 (threshold=0.5, cov_corr_threshold=0.7): {'信号2': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]}
+2025-07-13 01:03:42,327 - ERROR - Failed to save covariate_correlations_信号124.xlsx: [Errno 13] Permission denied: 'D:\\pycharm community\\machine learning test\\output\\covariate_correlations_信号124.xlsx'
+2025-07-13 01:03:45,064 - INFO - Saved heatmap_信号124.png
+2025-07-13 01:03:45,324 - INFO - Program completed successfully
+2025-07-13 01:03:45,727 - INFO - Cleaning up joblib resources
